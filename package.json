@@ -1,0 +1,16 @@
+{
+  "name": "cloud-archiver-spotify",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Wagner <web@mawalabs.de>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mkdirp": "^0.5.1",
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
