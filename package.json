@@ -1,5 +1,5 @@
 {
-  "name": "cloud-archiver-spotify",
+  "name": "@cloud-archiver/spotify",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
