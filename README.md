@@ -1,6 +1,6 @@
 # cloud archiver
 
-[Cloud archiver](https://github.com/cloud-archiver/core) helps you to backup data from different cloud services. This plugins is intend to work with [spotify](https://www.spotify.com).
+[Cloud archiver](https://github.com/cloud-archiver/core) helps you to backup data from different cloud services. This plugin is intend to work with [spotify](https://www.spotify.com).
 
 ## setup
 
@@ -32,4 +32,8 @@ $ node_modules/.bin/cloud-archiver spotify:auth
 ```
 
 After you vist the link printed by this command and log into your spotify account all api requests will be done as your account.
+
+## license
+
+MIT
 
